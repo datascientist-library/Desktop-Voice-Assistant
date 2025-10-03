@@ -101,3 +101,10 @@ The core architecture of the voice assistant combines **Convolutional Neural Net
 
 - This project serves as a strong foundation for anyone interested in building their own virtual assistant or exploring the intersection of AI, speech processing, and real-world automation.
 
+---
+
+## Author
+
+**Mihir Patil**  
+Desktop Voice Assistant Project
+
